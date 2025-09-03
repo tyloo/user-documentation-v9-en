@@ -62,7 +62,7 @@ If you need more details, you can find detailed instructions in the next section
 5. **Follow** the installer's instructions.
 6. Once the installation is done, **delete the `/install` folder** and **write down a new name for your `/admin` folder,** which has been generated specifically for you (for security reasons).
 
-PrestaShop should now be installed and ready to be configured! Continue to the [First steps with PrestaShop 8](../user-guide/first-steps.md) chapter of the User Guide.
+PrestaShop should now be installed and ready to be configured! Continue to the [First steps with PrestaShop 9](../user-guide/first-steps.md) chapter of the User Guide.
 
 ## Detailed instructions
 
@@ -74,7 +74,7 @@ You can download the latest version of PrestaShop on GitHub, here: [https://gith
 You do **not need a GitHub account** to download PrestaShop.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>PrestaShop 8.1.0's GitHub release page.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>PrestaShop 9.0.0's GitHub release page.</p></figcaption></figure>
 
 Here, you can download the latest stable version, which is ready for all kinds of online stores.
 
@@ -86,7 +86,7 @@ To benefit from the latest features and security fixes, it is **highly recommend
 
 **Click** on the version you wish to download, expand the **"Assets"** section, and save the .zip archive on your computer (on your Desktop, for example):
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>PrestaShop 8.0.4's release page. The Assets section is at the bottom of the Releases page.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>PrestaShop 9.0.0's release page. The Assets section is at the bottom of the Releases page.</p></figcaption></figure>
 
 You should get a file named "prestashop\_X.Y.Z.zip" (prestashop\_8.1.0.zip for example, or an equivalent, depending on the version you download).
 
@@ -469,7 +469,7 @@ You're free to:
 * Add [brands](https://docs.prestashop-project.org/v.8-documentation/v/english/user-guide/selling/managing-catalog/managing-brands) and [suppliers](https://docs.prestashop-project.org/v.8-documentation/v/english/user-guide/selling/managing-catalog/managing-suppliers),&#x20;
 * Change your [theme](https://docs.prestashop-project.org/v.8-documentation/v/english/user-guide/improving-shop/customizing-store-design/theme-and-logo).
 
-And configure the many settings to suit your tastes and needs. See the user guide's "[First steps with PrestaShop 8](../user-guide/first-steps.md)" chapter for more information.
+And configure the many settings to suit your tastes and needs. See the user guide's "[First steps with PrestaShop 9](../user-guide/first-steps.md)" chapter for more information.
 
 {% hint style="warning" %}
 You should regularly[ **back up your database and files**](https://devdocs.prestashop-project.org/8/basics/keeping-up-to-date/backup/), ideally on more than one computer, in case of problems related to hardware or security.

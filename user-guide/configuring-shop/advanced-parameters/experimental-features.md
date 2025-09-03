@@ -19,8 +19,6 @@ Then, go to **Catalog > Products**. You should notice some changes, specifically
 
 You can also edit an existing product on the experimental page, by selecting this option in the hamburger menu in the Actions column of the product listing.
 
-
-
 ## New & Experimental features (PrestaShop 8.1)
 
 {% hint style="info" %}
@@ -30,3 +28,41 @@ To use this new product page, you must enable it in the **News & Experimental** 
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (37) (3).png" alt=""><figcaption></figcaption></figure>
+
+## PrestaShop 9 New Features
+
+PrestaShop 9 introduces several major new features and improvements:
+
+### New Admin API
+PrestaShop 9 features a completely new **Admin API** powered by API Platform, providing:
+- RESTful API endpoints for better integration with external systems
+- Improved automation capabilities for store management
+- Modern API design using JSON and REST standards
+- Better developer experience for custom integrations
+
+### Hummingbird Theme
+A brand-new front office theme built with:
+- Bootstrap 5 LTS for modern, consistent design components
+- TypeScript and BEM CSS naming convention
+- Improved performance and maintainability
+- Support for dark mode and modern web standards
+
+### Enhanced Product Management
+- New product page interface in the back office
+- Improved combination management system
+- Better performance and user experience
+
+### WebP and AVIF Support
+- Native support for modern image formats
+- Improved page loading performance
+- Better SEO optimization
+
+### Symfony 6.4 LTS
+- Long-term support until November 2027
+- Improved performance and security
+- Modern PHP 8.1-8.4 compatibility
+- Better developer tools and architecture
+
+{% hint style="info" %}
+These features are now stable in PrestaShop 9 and no longer require experimental feature flags to be enabled.
+{% endhint %}

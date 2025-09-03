@@ -43,3 +43,34 @@ When enabling PrestaShop's webservice, the **status and URL of your store’s we
 ## Perform partial updates <a href="#webservice-configuration" id="webservice-configuration"></a>
 
 You can **perform partial updates** on webservice endpoints using the [PATCH method](https://en.wikipedia.org/wiki/PATCH\_\(HTTP\)). This means integrations can update part of a resource, instead of all the fields at once.
+
+## PrestaShop 9 Admin API
+
+PrestaShop 9 introduces a completely new **Admin API** powered by API Platform, replacing the legacy webservice system. This new API provides:
+
+### Key Features
+- **RESTful Design**: Modern REST API with JSON responses
+- **API Platform Integration**: Built on top of the robust API Platform framework
+- **Better Authentication**: Improved security and access control
+- **Comprehensive Documentation**: Auto-generated API documentation
+- **Modern Standards**: Follows current API best practices
+
+### Available Endpoints
+The Admin API includes endpoints for:
+- Products and catalog management
+- Orders and customer management
+- Module management
+- Configuration settings
+- And many more...
+
+### Accessing the API
+- **Documentation**: Available in your back office at `/api/docs`
+- **Base URL**: `/api/v1/`
+- **Authentication**: Uses modern token-based authentication
+
+### Migration from Legacy Webservice
+If you're upgrading from PrestaShop 8, note that the legacy webservice system has been replaced. The new Admin API provides better performance, security, and developer experience.
+
+{% hint style="info" %}
+For detailed API documentation and usage examples, visit the [PrestaShop Developer Documentation](https://devdocs.prestashop-project.org/9/admin-api/).
+{% endhint %}

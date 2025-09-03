@@ -3,14 +3,12 @@
 You can manage the products in your store using the **"Product"** page, in the **"Catalog"** menu.
 
 {% hint style="info" %}
-**PrestaShop 8.1 benefits from a brand-new product page**: read the documentation here if you wish to learn more:
+**PrestaShop 9 features a completely new product page**: The new product page is now the default interface in PrestaShop 9, providing improved performance, better user experience, and enhanced combination management. Read the documentation here if you wish to learn more:
 {% endhint %}
 
 {% content-ref url="new-product-page-prestashop-8.1.md" %}
 [new-product-page-prestashop-8.1.md](new-product-page-prestashop-8.1.md)
 {% endcontent-ref %}
-
-
 
 ## **Sections in this chapter:**
 
@@ -26,7 +24,7 @@ To create a new product, from the "Catalog" page, click on "New product" (or typ
 
 ### Tabs <a href="#managingproducts-tabs" id="managingproducts-tabs"></a>
 
-In PrestaShop 8, the product page is organized into tabs:
+In PrestaShop 9, the product page is organized into tabs:
 
 * **Basic settings**: it contains all you need to create a product quickly and easily. If however, you need to add more details to your product, then you should have a look at the other tabs.
 * **Quantities**, **Combinations,** or **Virtual product**: define your product quantities and other stock-related options. When your product has combinations the tab will be renamed Combinations. This is where you manage all your combinations. On the other hand, if you have a virtual product, this is where you upload its associated file if any.

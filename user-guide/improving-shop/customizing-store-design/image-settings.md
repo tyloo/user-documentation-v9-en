@@ -41,6 +41,38 @@ Click the "Add new image type" button, then:
 * **Product picture height**. By default, customers can upload image with a maximum height of 64 pixels.
 * **Generate high-resolution images**. The most recent screens with high pixel density (Retina and similar technologies) require high-resolution images. You can enable this feature to make sure your images will display correctly on this kind of screens. It will generate a new file for each of your images, with a resolution twice higher. This will double your number of image files, so use it wisely if you have limited storage space.
 
+## PrestaShop 9 Image Format Support
+
+PrestaShop 9 introduces support for modern image formats to improve your store's performance:
+
+### WebP Support
+- **Better Compression**: WebP images are typically 25-35% smaller than equivalent JPEG images
+- **Quality Preservation**: Maintains high image quality while reducing file size
+- **Wide Browser Support**: Supported by all modern browsers
+- **Automatic Conversion**: PrestaShop can automatically convert uploaded images to WebP format
+
+### AVIF Support
+- **Advanced Compression**: AVIF provides even better compression than WebP
+- **Next-Generation Format**: Latest image format with superior compression algorithms
+- **Quality Optimization**: Excellent quality-to-size ratio for web images
+- **Future-Proof**: Industry standard for modern web applications
+
+### Benefits
+- **Faster Page Loading**: Smaller image files mean faster website performance
+- **Better SEO**: Improved Core Web Vitals scores
+- **Reduced Bandwidth**: Lower hosting costs and better user experience
+- **Mobile Optimization**: Better performance on mobile devices
+
+### Configuration
+To enable these formats:
+1. Go to **Advanced Parameters > Performance**
+2. Enable **WebP** and **AVIF** support
+3. Configure quality settings for each format
+
+{% hint style="info" %}
+Modern image formats like WebP and AVIF can significantly improve your store's loading speed and user experience.
+{% endhint %}
+
 ## Regenerate Thumbnails <a href="#imagesettings-regeneratethumbnails" id="imagesettings-regeneratethumbnails"></a>
 
 You may be dissatisfied with your shop's current thumbnails size. This section makes it possible for you to regenerate them all – or only those for a specific type of content:

@@ -2,9 +2,39 @@
 
 PrestaShop presents a comprehensive, intuitive user administration panel, and gives you hundreds of standard functions that can be adapted or personalized in order to respond to all of your needs.
 
-This user guide will help you familiarize yourself with all of PrestaShop’s features. You will also be able to efficiently manage your PrestaShop site. While the majority of it is aimed at store owners, the first chapter serves as an introduction to the front office interface, which can be helpful to everyone.
+This user guide will help you familiarize yourself with all of PrestaShop's features. You will also be able to efficiently manage your PrestaShop site. While the majority of it is aimed at store owners, the first chapter serves as an introduction to the front office interface, which can be helpful to everyone.
 
 You can post all of your questions directly on our forum: [http://www.prestashop.com/forums/](http://www.prestashop.com/forums/)
+
+## What's New in PrestaShop 9
+
+PrestaShop 9 brings significant improvements and new features:
+
+### 🚀 **New Admin API**
+- Complete RESTful API powered by API Platform
+- Better integration with external systems and automation tools
+- Modern JSON-based API design for developers
+
+### 🎨 **Hummingbird Theme**
+- Brand-new front office theme built with Bootstrap 5
+- Improved performance and modern design standards
+- Better mobile experience and accessibility
+
+### ⚡ **Enhanced Performance**
+- Symfony 6.4 LTS foundation
+- PHP 8.1-8.4 compatibility
+- WebP and AVIF image support
+- Improved caching and optimization
+
+### 🛍️ **Better Product Management**
+- New product page interface (now default)
+- Enhanced combination management
+- Improved stock tracking and management
+
+### 🔧 **Developer Experience**
+- Modern Symfony architecture
+- Better module management with CQRS commands
+- Improved hooks and customization options
 
 Chapters in this guide:
 
@@ -12,7 +42,7 @@ Chapters in this guide:
 * [Customizing your store](broken-reference)
 * [Connecting to the PrestaShop back office](connecting-back-office.md)
 * [Discovering the Administration Area](discovering-administration-area.md)
-* [First steps with PrestaShop 8](first-steps.md)
+* [First steps with PrestaShop 9](first-steps.md)
 * [Selling with PrestaShop](selling/)
   * [Managing your Orders](selling/managing-orders/)
   * [Managing your Product Catalog](selling/managing-catalog/)

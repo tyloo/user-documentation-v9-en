@@ -1,5 +1,5 @@
 ---
-description: This page lists additional information you may need to install PrestaShop 8.
+description: This page lists additional information you may need to install PrestaShop 9.
 ---
 
 # Misc. information
@@ -30,13 +30,11 @@ On a default installation of PHP, the GD Library should be turned on, but if tha
 If you have no access to the `php.ini` file (which is often the case in shared hosting), contact your host about your hosting needs.
 {% endhint %}
 
-## Activating PHP 7.2+
+## PHP version
 
-{% hint style="warning" %}
-To install PrestaShop 8, **PHP 7.2 must be activated.**&#x20;
+To install PrestaShop 9, **PHP 8.1 must be activated.**&#x20;
 
 It is extended to PHP 8.1, but don't attempt to run PrestaShop using PHP 8.2, it won't work.
-{% endhint %}
 
 Please do not hesitate to post a bug report concerning the tips needed to make PrestaShop run on your hosting service, on [GitHub](https://github.com/PrestaShop) (you will need an account). We will add them to this guide as we receive them.
 

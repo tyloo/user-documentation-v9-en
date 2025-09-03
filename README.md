@@ -1,6 +1,19 @@
 # Contributing to the documentation
 
-Just like PrestaShop itself, the [documentation](https://docs.prestashop-project.org/) is open to everyone for suggestions, ideas, and modifications. Anyone is welcome and even encouraged, to contribute to **translate**, **update**, or **write** the PrestaShop 8 user documentation.
+Just like PrestaShop itself, the [documentation](https://docs.prestashop-project.org/) is open to everyone for suggestions, ideas, and modifications. Anyone is welcome and even encouraged, to contribute to **translate**, **update**, or **write** the PrestaShop 9 user documentation.
+
+## PrestaShop 9 Documentation
+
+This documentation has been updated to reflect PrestaShop 9, which brings significant improvements including:
+
+- **New Admin API** powered by API Platform
+- **Hummingbird theme** with Bootstrap 5 and modern standards
+- **Enhanced performance** with Symfony 6.4 LTS and PHP 8.1-8.4 support
+- **Improved product management** with the new default product page
+- **Modern image formats** support (WebP, AVIF)
+- **Better module management** with CQRS commands
+
+For detailed information about PrestaShop 9 features, visit the [official release notes](https://build.prestashop-project.org/news/2025/prestashop-9-0-available/).
 
 <figure><img src=".gitbook/assets/Web image-PhotoAdobeStock_511091438_HD.jpg" alt=""><figcaption></figcaption></figure>
 

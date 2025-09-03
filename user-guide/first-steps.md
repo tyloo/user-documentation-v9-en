@@ -1,12 +1,12 @@
-# First steps with PrestaShop 8
+# First steps with PrestaShop 9
 
-## First steps with PrestaShop 8 <a href="#firststepswithprestashop1.7-firststepswithprestashop1.7" id="firststepswithprestashop1.7-firststepswithprestashop1.7"></a>
+## First steps with PrestaShop 9 <a href="#firststepswithprestashop9-firststepswithprestashop9" id="firststepswithprestashop9-firststepswithprestashop9"></a>
 
 You have to make sure every part of your future online store is properly set up, secured, validated and ready for business.
 
 PrestaShop is a very complete tool, and the number of possibilities can feel overwhelming. This chapter will therefore lead you through some basic actions to perform in order to set up your store before the big launch. A lot can and must be done before you launch your store, but these steps are the essential configuration steps of any store.
 
-### Deactivate your store <a href="#firststepswithprestashop1.7-deactivateyourshop" id="firststepswithprestashop1.7-deactivateyourshop"></a>
+### Deactivate your store <a href="#firststepswithprestashop9-deactivateyourshop" id="firststepswithprestashop9-deactivateyourshop"></a>
 
 We will consider that you are still within the first hour following your installation of PrestaShop, in a single-store instance.
 
@@ -29,7 +29,7 @@ You can activate the Catalog mode by going to the "Shop Parameters" > "Products 
 
 ![](<../.gitbook/assets/51185218 (3) (3) (3).png>)
 
-### Delete the content of the default store <a href="#firststepswithprestashop1.7-deletethecontentofthedefaultshop" id="firststepswithprestashop1.7-deletethecontentofthedefaultshop"></a>
+### Delete the content of the default store <a href="#firststepswithprestashop9-deletethecontentofthedefaultshop" id="firststepswithprestashop9-deletethecontentofthedefaultshop"></a>
 
 The default installation features a handful of products – mainly women's clothing. Their only use is to help you explore the organization of a real store. After you've learned the intricacies of the ties between products, categories, orders and customers, you should delete all these items in order to start your store with a clean slate.
 
@@ -55,11 +55,11 @@ You must therefore delete all the default data, which means:
 * contact & stores (delete or adapt to your business' needs)
 * Pages (delete or adapt to your business' needs)
 
-### Configure your store's information <a href="#firststepswithprestashop1.7-configureyourshopsinformation" id="firststepswithprestashop1.7-configureyourshopsinformation"></a>
+### Configure your store's information <a href="#firststepswithprestashop9-configureyourshopsinformation" id="firststepswithprestashop9-configureyourshopsinformation"></a>
 
 Now that you have a clean store, you can start making it your own, and that implies setting everything up to your likings, starting with your personal information and your preferences.
 
-#### The store's basic settings <a href="#firststepswithprestashop1.7-theshopsbasicsettings" id="firststepswithprestashop1.7-theshopsbasicsettings"></a>
+#### The store's basic settings <a href="#firststepswithprestashop9-theshopsbasicsettings" id="firststepswithprestashop9-theshopsbasicsettings"></a>
 
 You should pay attention to the following settings, most of which are important because they are displayed in the front office, and therefore in plain sight of your customers.
 
@@ -91,7 +91,7 @@ For each module presented here, you should read their documentation for more inf
 These are the most visible default settings on your front end – at least with the default theme.\
 The "Where to find it" column enables you to see where you can find the interface to change these aspects of your store. This user guide will provide you with more details for each interface.
 
-#### Store languages <a href="#firststepswithprestashop1.7-shoplanguages" id="firststepswithprestashop1.7-shoplanguages"></a>
+#### Store languages <a href="#firststepswithprestashop9-shoplanguages" id="firststepswithprestashop9-shoplanguages"></a>
 
 PrestaShop is able to work with many languages, both in the front office and the back office. As soon as more than one language is enabled in your back office, each back office text field is accompanied with a language code selector, which indicates the current language, and which you can click in order to choose another language in which to write that field's content.
 
@@ -107,7 +107,7 @@ You can install and enable many languages if you think your store needs them, bu
 
 You can easily import many more languages in the "International / Translation" page ("Add/update a language), and then enable them in the "Localization / Languages" page.
 
-#### Employees information <a href="#firststepswithprestashop1.7-employeesinformation" id="firststepswithprestashop1.7-employeesinformation"></a>
+#### Employees information <a href="#firststepswithprestashop9-employeesinformation" id="firststepswithprestashop9-employeesinformation"></a>
 
 Should you have people helping you with your store (whether they are your family, your friends, or paid employees), you should make sure to create an employee account for each of them – if only to know who has performed which recent action. The other advantage is that you can give them specific profiles and specific access rights to the administration pages: for instance, you might not want everyone to have access to your statistics, your invoices or your payment settings.\
 You can create as many profiles as needed.
@@ -122,7 +122,7 @@ You can edit these permissions this way: go to the "Permissions" tab, and select
 
 ![](<../.gitbook/assets/23038245 (3) (3) (3).png>)
 
-### Configure your payment methods <a href="#firststepswithprestashop1.7-configureyourpaymentmethods" id="firststepswithprestashop1.7-configureyourpaymentmethods"></a>
+### Configure your payment methods <a href="#firststepswithprestashop9-configureyourpaymentmethods" id="firststepswithprestashop9-configureyourpaymentmethods"></a>
 
 Your store is meant to earn money, and this can only become a reality if you use at least one payment module. Several modules are already available in the default install, which you can install and configure (from the "Installed Modules" page under the "Modules" menu, in the "Payments & Gateways" category), and create restrictions for them (in the "Preference" page under the "Payment" menu). Many payment modules require you to first set up an account on the service they were built for.
 
@@ -130,7 +130,7 @@ Check and bank wire are the only two payment methods that are enabled by default
 
 These payment methods are configured through the "Wire payment" and "Payments by check" modules, which you can find in the "Installed modules" page.
 
-### Configure carriers and shipment <a href="#firststepswithprestashop1.7-configurecarriersandshipment" id="firststepswithprestashop1.7-configurecarriersandshipment"></a>
+### Configure carriers and shipment <a href="#firststepswithprestashop9-configurecarriersandshipment" id="firststepswithprestashop9-configurecarriersandshipment"></a>
 
 Products sold on your store must be shipped to your customers – unless you only sell downloadable products, in which case the "Shipping" menu will be of little use to you.
 
@@ -141,7 +141,7 @@ See the "Managing Shipping" chapter of this guide in order to learn about shippi
 **Merchandise return is not enabled by default**. If you want to allow your customers to return products and get a refund or a voucher, you can do it in the "Merchandise return (RMA) options" of the "Merchandise returns" page, under the "Customer service" menu.\
 Merchandise returns are explained in the "Managing the Customer Service" chapter of this guide.
 
-### Choose your theme <a href="#firststepswithprestashop1.7-chooseyourtheme" id="firststepswithprestashop1.7-chooseyourtheme"></a>
+### Choose your theme <a href="#firststepswithprestashop9-chooseyourtheme" id="firststepswithprestashop9-chooseyourtheme"></a>
 
 Your store should have its own theme in order to have a distinctive style, and therefore be more recognizable, separating it from the numerous other online shops.
 
@@ -153,7 +153,7 @@ Once your theme is installed, you should explore it fully in order to know it by
 
 You can and should customize some of the theme's aspects, most notably its logo in various situations (header, mail, invoice, etc.). This is done using the "Theme & Logo" page, which you can find under the "Design" menu.
 
-### Choose your modules <a href="#firststepswithprestashop1.7-chooseyourmodules" id="firststepswithprestashop1.7-chooseyourmodules"></a>
+### Choose your modules <a href="#firststepswithprestashop9-chooseyourmodules" id="firststepswithprestashop9-chooseyourmodules"></a>
 
 PrestaShop comes bundled with more than a hundred modules. These are very varied: analytics, front office features, payment, shipping... You should explore the available modules in full, in order to know which ones you might want to enable, and which you'd rather keep disabled.
 
@@ -161,11 +161,11 @@ You can also find many other modules on the Addons marketplace: [http://addons.p
 
 Every time you activate and configure a module, make sure that it does work well within the confines of your theme, in case its features impact your shop's front end.
 
-### Create your products and product categories <a href="#firststepswithprestashop1.7-createyourproductsandproductcategories" id="firststepswithprestashop1.7-createyourproductsandproductcategories"></a>
+### Create your products and product categories <a href="#firststepswithprestashop9-createyourproductsandproductcategories" id="firststepswithprestashop9-createyourproductsandproductcategories"></a>
 
 This is described in detail in the "Managing Products" and "Managing Categories" chapters.
 
-### Create your static content <a href="#firststepswithprestashop1.7-createyourstaticcontent" id="firststepswithprestashop1.7-createyourstaticcontent"></a>
+### Create your static content <a href="#firststepswithprestashop9-createyourstaticcontent" id="firststepswithprestashop9-createyourstaticcontent"></a>
 
 If you haven't done this already, you should take the time to write the content for the various static pages which are either already available in your PrestaShop installation, or ones that you feel are needed.
 
@@ -176,13 +176,13 @@ To edit these pages, go to the "Design" menu, click the "Pages" page, then choos
 
 You can create as many pages as you feel are necessary.
 
-### Build your top menu <a href="#firststepswithprestashop1.7-buildyourtopmenu" id="firststepswithprestashop1.7-buildyourtopmenu"></a>
+### Build your top menu <a href="#firststepswithprestashop9-buildyourtopmenu" id="firststepswithprestashop9-buildyourtopmenu"></a>
 
 Now that you have product categories and static pages, you should arrange them in a logical and compelling way in the top menu.
 
 This is done using the "Main menu" module: go to the "Installed Modules" tab of the "Modules" page, type "menu" in the module search form, and you should find the module. Enable it if it is disabled, then configure it: remove the pages or categories you deem unnecessary, add other pages, and move the content around, until you are satisfied with your menu's hierarchy.
 
-### Activate your store <a href="#firststepswithprestashop1.7-activateyourshop" id="firststepswithprestashop1.7-activateyourshop"></a>
+### Activate your store <a href="#firststepswithprestashop9-activateyourshop" id="firststepswithprestashop9-activateyourshop"></a>
 
 Now that all is set and done, you can finally open your store to the public.
 

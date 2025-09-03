@@ -2,7 +2,7 @@
 description: PrestaShop also has an installer for command-line installations.
 ---
 
-# Installing PrestaShop 8 using the command-line script
+# Installing PrestaShop 9 using the command-line script
 
 ## What is it? <a href="#installingprestashopusingthecommand-linescript-whatitis" id="installingprestashopusingthecommand-linescript-whatitis"></a>
 

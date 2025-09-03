@@ -1,7 +1,7 @@
-# New product page (PrestaShop 8.1)
+# New product page (PrestaShop 9)
 
 {% hint style="info" %}
-To use the new product page, you must enable it in the [New & experimental features](../../configuring-shop/advanced-parameters/experimental-features.md) page on PrestaShop 8.1:
+The new product page is now the **default interface in PrestaShop 9**. This improved product page provides better performance, enhanced combination management, and a more intuitive user experience. No experimental feature flags are required.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (96) (1).png" alt=""><figcaption></figcaption></figure>
@@ -36,7 +36,7 @@ Note that by changing your product type, **all combinations will be deleted** an
 
 ## Creating a product with combinations
 
-In PrestaShop 8.1, the combination page has been reworked. A combination generation modal now appears when clicking on the "**Combinations" > "Manage product combinations"** tab.
+In PrestaShop 9, the combination page has been reworked. A combination generation modal now appears when clicking on the "**Combinations** > "Manage product combinations"** tab.
 
 To select single values, **click on an attribute** to expand it and **select the values** you want to add to your product.
 
@@ -62,11 +62,9 @@ When using **multistore mode**, you can generate attributes for all stores by ch
 
 <figure><img src="../../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
-## Managing combinations
+## Combination filters
 
-### Using combination filters
-
-PrestaShop 8.1 introduces combinations filters on the **"Combinations" > "Manage product combinations"** page, allowing you to quickly manage combinations in your store:
+PrestaShop 9 introduces combinations filters on the **"Combinations" > "Manage product combinations"** page, allowing you to quickly manage combinations in your store:
 
 <figure><img src="../../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 

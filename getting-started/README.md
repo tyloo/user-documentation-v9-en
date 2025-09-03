@@ -14,9 +14,9 @@ layout:
 
 # Getting started
 
-## Getting started with PrestaShop 8 <a href="#gettingstarted-gettingstartedwithprestashop1.7" id="gettingstarted-gettingstartedwithprestashop1.7"></a>
+## Getting started with PrestaShop 9 <a href="#gettingstarted-gettingstartedwithprestashop9" id="gettingstarted-gettingstartedwithprestashop9"></a>
 
-This guide was written to help you download and install **PrestaShop 8.**
+This guide was written to help you download and install **PrestaShop 9.**
 
 Every step of the process is detailed, with tips and indications to help you get the most out of PrestaShop. Make sure to read the instructions at least once before proceeding with the installation.
 

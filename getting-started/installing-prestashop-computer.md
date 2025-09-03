@@ -1,4 +1,4 @@
-# Installing PrestaShop 8 on your computer
+# Installing PrestaShop 9 on your computer
 
 You may wish to install PrestaShop on your local machine, either to test it before investing money in a server and domain name — or to customize your store locally before you push your modifications to the PrestaShop installation that you may already have set up online.
 

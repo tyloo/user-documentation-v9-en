@@ -1,18 +1,18 @@
 ---
-description: This page lists everything you need to start installing PrestaShop 8.
+description: This page lists everything you need to start installing PrestaShop 9.
 ---
 
 # What you need to get started
 
 ## Quick set-up instructions
 
-Here is a quick list of what you need to get started with the installation of PrestaShop 8. You will find more detailed instructions in the next sections.
+Here is a quick list of what you need to get started with the installation of PrestaShop 9. You will find more detailed instructions in the next sections.
 
 ## **System requirements:**
 
 * **System:** Unix, Linux, or Windows.
 * **MySQL:** 5.6 or later.
-* **PHP:** 7.2 or later.
+* **PHP:** 8.1 or later (8.1, 8.2, 8.3, 8.4 supported).
 * **In your `php.ini` file:**
   * **Useful settings**&#x20;
     * `allow_url_fopen` set to **"On" ✅**,&#x20;
@@ -26,7 +26,7 @@ Here is a quick list of what you need to get started with the installation of Pr
     * **Intl:** the [ICONV extension](https://www.php.net/manual/en/book.iconv.php) is used to convert character sets.
     * **Mbstring:** the [Multibyte string extension](https://www.php.net/manual/en/book.mbstring.php) is used to perform string operations everywhere.
     * **Zip:** the [Zip extension](https://php.net/manual/en/book.zip.php) is used to expand compressed files such as modules and localization packages.
-    * **JSON:** the [JSON extension](https://www.php.net/manual/en/json.installation.php) is used to manage JSON format.
+    * **JSON:** the [JSON extension](https://www.php.net/manual/json.installation.php) is used to manage JSON format.
     * **Iconv:** the [ICONV extension](https://www.php.net/manual/en/book.iconv.php) is used to convert character sets.
 * **Useful server tools:**&#x20;
   * Cron/[Crontab](https://crontab.guru/), [Memcached](https://memcached.org/).
@@ -123,9 +123,13 @@ No matter which hosting service you choose, **the following components will be i
 
 * **System**: Unix, Linux, or Windows (Unix is highly recommended).
 * **Web server**: Apache Web server 2.2 or later.
-* **PHP:** 7.2 or later.&#x20;
+* **PHP:** 8.1 or later (8.1, 8.2, 8.3, 8.4 supported).&#x20;
 * **MySQL:** 5.6 or later.
 * **Server RAM:** At least `256MB`of RAM.
+
+{% hint style="info" %}
+PrestaShop 9 is built on **Symfony 6.4 LTS** (long-term support version), which ensures security updates until **November 2027**. This brings improved performance, stronger security foundation, and cleaner, modern code architecture.
+{% endhint %}
 
 {% hint style="info" %}
 PrestaShop can also work with [Microsoft's IIS Web server](https://www.iis.net/) 6.0 or later, and [Nginx](https://docs.nginx.com/nginx/admin-guide/web-server/) 1.0 or later.

@@ -1,4 +1,4 @@
-# Uninstalling PrestaShop 8
+# Uninstalling PrestaShop 9
 
 PrestaShop is very easy to uninstall:
 
