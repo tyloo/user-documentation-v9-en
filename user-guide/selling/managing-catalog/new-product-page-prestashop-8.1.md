@@ -2,6 +2,34 @@
 
 {% hint style="info" %}
 The new product page is now the **default interface in PrestaShop 9**. This improved product page provides better performance, enhanced combination management, and a more intuitive user experience. No experimental feature flags are required.
+
+## What's New in PrestaShop 9
+
+PrestaShop 9 brings significant improvements to the product page:
+
+### 🚀 **Symfony Migration**
+- **Modern Architecture**: Complete migration from legacy controllers to Symfony
+- **Twig Templates**: Replaced Smarty templates with modern Twig templating
+- **Better Performance**: Improved page loading and response times
+- **Enhanced Security**: Modern security practices and validation
+
+### 🎯 **New Hooks for Developers**
+- `displayAdminProductsOptionsStepTop`: Add content to the top of the Options tab
+- `displayAdminProductsOptionsStepBottom`: Add content to the bottom of the Options tab
+- `displayAdminProductsPriceStepBottom`: Add content to the bottom of the Price tab
+- `displayAdminProductsSeoStepBottom`: Add content to the bottom of the SEO tab
+
+### ⚡ **Enhanced User Experience**
+- **Improved Navigation**: Better tab organization and flow
+- **Real-time Validation**: Instant feedback on form inputs
+- **Better Error Handling**: Clear error messages and validation
+- **Responsive Design**: Optimized for all screen sizes
+
+### 🔧 **Technical Improvements**
+- **CQRS Commands**: Better separation of concerns
+- **Form Validation**: Enhanced client and server-side validation
+- **API Integration**: Better integration with the new Admin API
+- **Module Compatibility**: Improved hook system for module developers
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (96) (1).png" alt=""><figcaption></figcaption></figure>

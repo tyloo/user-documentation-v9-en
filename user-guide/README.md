@@ -11,30 +11,47 @@ You can post all of your questions directly on our forum: [http://www.prestashop
 PrestaShop 9 brings significant improvements and new features:
 
 ### 🚀 **New Admin API**
-- Complete RESTful API powered by API Platform
-- Better integration with external systems and automation tools
-- Modern JSON-based API design for developers
+- **API Platform 3**: Complete RESTful API powered by API Platform
+- **OAuth2 Authentication**: Modern, secure authentication system
+- **Auto-generated Documentation**: Interactive API docs at `/api/docs`
+- **CQRS Architecture**: Better separation of concerns
+- **Granular Permissions**: Fine-grained access control with scopes
+- **Rate Limiting**: Built-in protection against abuse
 
 ### 🎨 **Hummingbird Theme**
-- Brand-new front office theme built with Bootstrap 5
-- Improved performance and modern design standards
-- Better mobile experience and accessibility
+- **Bootstrap 5.2 LTS**: Brand-new front office theme with modern framework
+- **TypeScript & BEM CSS**: Enhanced development with type safety and clean architecture
+- **Performance Optimized**: Faster loading times and better Core Web Vitals
+- **Dark Mode Support**: Built-in dark theme capability
+- **Accessibility**: WCAG 2.1 AA compliant design
+- **Mobile First**: Responsive design optimized for all devices
 
 ### ⚡ **Enhanced Performance**
-- Symfony 6.4 LTS foundation
-- PHP 8.1-8.4 compatibility
-- WebP and AVIF image support
-- Improved caching and optimization
+- **Symfony 6.4 LTS**: Long-term support until November 2027
+- **PHP 8.1-8.4 Compatibility**: Support for modern PHP versions
+- **WebP and AVIF Support**: Native support for modern image formats
+- **Critical CSS**: Above-the-fold styles inlined for faster rendering
+- **Lazy Loading**: Images and content loaded on demand
 
 ### 🛍️ **Better Product Management**
-- New product page interface (now default)
-- Enhanced combination management
-- Improved stock tracking and management
+- **New Product Page**: Now the default interface with Symfony migration
+- **Enhanced Combination Management**: Improved generation and bulk operations
+- **Delta Stock System**: Add/subtract stock quantities with better tracking
+- **Real-time Validation**: Instant feedback on form inputs
+- **New Developer Hooks**: Enhanced customization options
 
 ### 🔧 **Developer Experience**
-- Modern Symfony architecture
-- Better module management with CQRS commands
-- Improved hooks and customization options
+- **Modern Architecture**: Complete Symfony migration with Twig templates
+- **CQRS Commands**: Better module management and business logic separation
+- **Enhanced Hooks**: New hooks for product page customization
+- **TypeScript Support**: Type-safe development for themes
+- **Modern Build Tools**: Webpack and contemporary development tooling
+
+### 🔒 **Security & Reliability**
+- **Enhanced Authentication**: OAuth2 for Admin API
+- **Better Input Validation**: Improved security practices
+- **XSS Protection**: Enhanced cross-site scripting protection
+- **Session Security**: Improved session management
 
 Chapters in this guide:
 

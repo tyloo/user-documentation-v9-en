@@ -31,38 +31,50 @@ To use this new product page, you must enable it in the **News & Experimental** 
 
 ## PrestaShop 9 New Features
 
-PrestaShop 9 introduces several major new features and improvements:
+PrestaShop 9 introduces several major new features and improvements that are now **stable and production-ready**:
 
-### New Admin API
+### 🚀 New Admin API
 PrestaShop 9 features a completely new **Admin API** powered by API Platform, providing:
-- RESTful API endpoints for better integration with external systems
-- Improved automation capabilities for store management
-- Modern API design using JSON and REST standards
-- Better developer experience for custom integrations
+- **API Platform 3**: RESTful API endpoints with modern architecture
+- **OAuth2 Authentication**: Secure, modern authentication system
+- **Auto-generated Documentation**: Interactive API docs at `/api/docs`
+- **CQRS Architecture**: Better separation of concerns and performance
+- **Granular Permissions**: Fine-grained access control with scopes
+- **Rate Limiting**: Built-in protection against abuse
 
-### Hummingbird Theme
-A brand-new front office theme built with:
-- Bootstrap 5 LTS for modern, consistent design components
-- TypeScript and BEM CSS naming convention
-- Improved performance and maintainability
-- Support for dark mode and modern web standards
+### 🎨 Hummingbird Theme
+A brand-new front office theme built with modern technologies:
+- **Bootstrap 5.2 LTS**: Latest Bootstrap framework for consistent design
+- **TypeScript & BEM CSS**: Enhanced development with type safety and clean architecture
+- **Performance Optimized**: Faster loading times and better Core Web Vitals
+- **Dark Mode Support**: Built-in dark theme capability
+- **Accessibility**: WCAG 2.1 AA compliant design
+- **Mobile First**: Responsive design optimized for all devices
 
-### Enhanced Product Management
-- New product page interface in the back office
-- Improved combination management system
-- Better performance and user experience
+### 🛍️ Enhanced Product Management
+- **New Product Page**: Now the default interface with Symfony migration
+- **Enhanced Combination Management**: Improved generation and bulk operations
+- **Delta Stock System**: Add/subtract stock quantities with better tracking
+- **Real-time Validation**: Instant feedback on form inputs
+- **New Developer Hooks**: Enhanced customization options for modules
 
-### WebP and AVIF Support
-- Native support for modern image formats
-- Improved page loading performance
-- Better SEO optimization
+### ⚡ Performance & Technology
+- **Symfony 6.4 LTS**: Long-term support until November 2027
+- **PHP 8.1-8.4 Compatibility**: Support for modern PHP versions
+- **WebP and AVIF Support**: Native support for modern image formats
+- **Critical CSS**: Above-the-fold styles inlined for faster rendering
+- **Lazy Loading**: Images and content loaded on demand
 
-### Symfony 6.4 LTS
-- Long-term support until November 2027
-- Improved performance and security
-- Modern PHP 8.1-8.4 compatibility
-- Better developer tools and architecture
+### 🔒 Security Enhancements
+- **Enhanced Authentication**: OAuth2 for Admin API
+- **Better Input Validation**: Improved security practices
+- **XSS Protection**: Enhanced cross-site scripting protection
+- **Session Security**: Improved session management
+
+{% hint style="success" %}
+**All PrestaShop 9 features are now stable and production-ready.** No experimental feature flags are required - these features are the default experience in PrestaShop 9.
+{% endhint %}
 
 {% hint style="info" %}
-These features are now stable in PrestaShop 9 and no longer require experimental feature flags to be enabled.
+For detailed information about these features, see the [PrestaShop 9 Changelog](../prestashop-9-changelog.md) and the [Admin API documentation](admin-api.md).
 {% endhint %}
